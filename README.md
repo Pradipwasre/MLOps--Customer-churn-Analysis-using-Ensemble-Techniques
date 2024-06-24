@@ -5,3 +5,5 @@ In this project we are implementing a churn prediction model in python using ens
 
 > Getting started with Notebook file: 14 June. # EDA
 > Univariate and bivariate analysis. Outlier treatment: 15 June.
+> Completed Notebook work.
+> Started AWS cloud deployment: 24 July 2024
